@@ -36,13 +36,17 @@
  <p> Soy una persona apasionada, proactiva, decidida, organizada, puntual, con capacidad de liderar y guiar, responsable, comprometida con cualquier tarea dada, con excelente trato interpersonal, con capacidad para trabajar bajo presión y en equipo ​🤝​. </p>
  
  ---
-
-
- <h3>Oh la la! - Aplicación de recetas</h3>
- <a href="https://github.com/Lean97-start/App-Food">
- <img align="center" src="https://user-images.githubusercontent.com/71276668/169934895-1a1368f4-1550-40b8-82f2-98072eadfa1b.png" height='100' />
+<p>
+<h2>Proyectos</h2>
+<h3>Oh la la! - Single page aplication de recetas</h3>
+<a href="https://github.com/Lean97-start/App-Food">
+<img align="center" src="https://user-images.githubusercontent.com/71276668/169934895-1a1368f4-1550-40b8-82f2-98072eadfa1b.png" height='100' />
 </a>
-
+<h3>Bragi - Red social</h3>
+<a href="https://github.com/Lean97-start/Bragi">
+<img align="center" src="https://user-images.githubusercontent.com/71276668/169942015-3316bc36-c1db-4700-a850-d17b72a98c05.png" height='100' />
+</a>
+</p>
 
 
 ---
